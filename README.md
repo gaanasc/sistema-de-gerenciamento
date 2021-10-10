@@ -8,33 +8,33 @@ O sistema deve permitir a implementação das seguintes histórias de usuário:
 
 ## Regras
 
-H1.: Como gestor do sistema gostaria de cadastrar novos usuários pelo seu nome completo e e-mail.
+:white_medium_small_square: H1.: Como gestor do sistema gostaria de cadastrar novos usuários pelo seu nome completo e e-mail.
 
-H2.: Como gestor do sistema gostaria de exibir todos os usuários cadastrados, listando-os por ordem de cadastro.
+:white_medium_small_square: H2.: Como gestor do sistema gostaria de exibir todos os usuários cadastrados, listando-os por ordem de cadastro.
 
-H3.: Como gestor do sistema gostaria de exibir todos os usuários cadastros, listando-os por ordem alfabética.
+:white_medium_small_square: H3.: Como gestor do sistema gostaria de exibir todos os usuários cadastros, listando-os por ordem alfabética.
 
-H4.: Como gestor do sistema gostaria de verificar se um usuário faz parte da lista de participantes, buscando-o pelo seu nome.
+:white_medium_small_square: H4.: Como gestor do sistema gostaria de verificar se um usuário faz parte da lista de participantes, buscando-o pelo seu nome.
 
-H5.: Como gestor do sistema gostaria poder remover um usuário cadastrado, buscando-o por seu email.
+:white_medium_small_square: H5.: Como gestor do sistema gostaria poder remover um usuário cadastrado, buscando-o por seu email.
 
-H6.: Como gestor do sistema gostaria de poder alterar o nome de um usuário cadastrado no sistema, buscando-o por seu e-mail.
+:white_medium_small_square: H6.: Como gestor do sistema gostaria de poder alterar o nome de um usuário cadastrado no sistema, buscando-o por seu e-mail.
 
 
 ## Complementar
 
-Restrições:
+:heavy_minus_sign: Restrições:
 
-• Uma ou mais estruturas de dados do tipo lista, para armazenar os dados dos inscritos; e/ou
+:white_medium_small_square: Uma ou mais estruturas de dados do tipo lista, para armazenar os dados dos inscritos; e/ou
 
-• Uma ou mais estruturas de dados do tipo dicionário.
+:white_medium_small_square: Uma ou mais estruturas de dados do tipo dicionário.
 
-• Utilizar funções, buscando respeitar a separação de controle/lógica de visão/interação com o usuário.
+:white_medium_small_square: Utilizar funções, buscando respeitar a separação de controle/lógica de visão/interação com o usuário.
 
-• Utilizar funções de string e de lista.
+:white_medium_small_square: Utilizar funções de string e de lista.
 
-• Utilizar ForEach
+:white_medium_small_square: Utilizar ForEach
 
-• Implementar os menus e mensagens necessárias para interagir com o usuário.
+:white_medium_small_square: Implementar os menus e mensagens necessárias para interagir com o usuário.
 
-• Atender as histórias de usuário.
+:white_medium_small_square: Atender as histórias de usuário.
