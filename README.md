@@ -1,16 +1,12 @@
-![Projeto-img](https://user-images.githubusercontent.com/57952324/132383684-ab043b5b-10fc-43e7-ab80-11f02bedc4ea.png)
-# Projeto-N1-Parte-1-UAM
+
 
 ### Situação Problema:
 
-Muitos jogos de RPG são baseados em explorar dungeons, ou seja, explorar cavernas,
-calabouços, florestas e todo tipo de lugar desconhecido. Hoje você será o líder de uma guilda de heróis!
-Como todo bom líder, você deverá guiar os guerreiros através do labirinto.
-
+Uma instituição de ensino superior precisa de um sistema para gerenciar o processo de inscrições em
+um evento técnico.
+O sistema deve permitir a implementação das seguintes histórias de usuário:
 
 ## Regras
-
-Uma instituição de ensino superior precisa de um sistema para gerenciar o processo de inscrições em um evento técnico. O sistema deve permitir a implementação das seguintes histórias de usuário:
 
 H1.: Como gestor do sistema gostaria de cadastrar novos usuários pelo seu nome completo e e-mail.
 
