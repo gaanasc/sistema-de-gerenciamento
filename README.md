@@ -8,7 +8,7 @@ O sistema deve permitir a implementação das seguintes histórias de usuário:
 
 ## Regras
 
-#H1.: Como gestor do sistema gostaria de cadastrar novos usuários pelo seu nome completo e e-mail.
+H1.: Como gestor do sistema gostaria de cadastrar novos usuários pelo seu nome completo e e-mail.
 
 H2.: Como gestor do sistema gostaria de exibir todos os usuários cadastrados, listando-os por ordem de cadastro.
 
