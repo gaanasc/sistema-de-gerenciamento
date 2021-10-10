@@ -1,12 +1,12 @@
 
 
-### Situação Problema:
+### :heavy_minus_sign: Situação Problema:
 
 Uma instituição de ensino superior precisa de um sistema para gerenciar o processo de inscrições em um evento técnico.
 
 O sistema deve permitir a implementação das seguintes histórias de usuário:
 
-## Regras
+## :heavy_minus_sign: Regras
 
 :white_medium_small_square: H1.: Como gestor do sistema gostaria de cadastrar novos usuários pelo seu nome completo e e-mail.
 
