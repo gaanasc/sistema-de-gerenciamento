@@ -23,7 +23,7 @@ O sistema deve permitir a implementação das seguintes histórias de usuário:
 
 ## Complementar
 
-Restrições:
+:heavy_minus_sign: Restrições:
 
 :white_medium_small_square: Uma ou mais estruturas de dados do tipo lista, para armazenar os dados dos inscritos; e/ou
 
