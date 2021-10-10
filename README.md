@@ -2,8 +2,8 @@
 
 ### Situação Problema:
 
-Uma instituição de ensino superior precisa de um sistema para gerenciar o processo de inscrições em
-um evento técnico.
+Uma instituição de ensino superior precisa de um sistema para gerenciar o processo de inscrições em um evento técnico.
+
 O sistema deve permitir a implementação das seguintes histórias de usuário:
 
 ## Regras
@@ -23,7 +23,7 @@ H6.: Como gestor do sistema gostaria de poder alterar o nome de um usuário cada
 
 ## Complementar
 
-Neste projeto você e sua equipe devem criar uma solução que seja capaz de resolver o problema destacado na seção anterior. Para isso, você precisará criar:
+Restrições:
 
 • Uma ou mais estruturas de dados do tipo lista, para armazenar os dados dos inscritos; e/ou
 
