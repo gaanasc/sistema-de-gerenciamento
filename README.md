@@ -23,6 +23,7 @@ H6.: Como gestor do sistema gostaria de poder alterar o nome de um usuário cada
 ## Complementar
 
 Restrições:
+
 • Uma ou mais estruturas de dados do tipo lista, para armazenar os dados dos inscritos; e/ou
 
 • Uma ou mais estruturas de dados do tipo dicionário.
