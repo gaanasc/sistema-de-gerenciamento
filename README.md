@@ -21,9 +21,9 @@ O sistema deve permitir a implementação das seguintes histórias de usuário:
 :white_medium_small_square: H6.: Como gestor do sistema gostaria de poder alterar o nome de um usuário cadastrado no sistema, buscando-o por seu e-mail.
 
 
-## :arrow_forward: Complementar
+## :heavy_minus_sign:  Complementar
 
-:heavy_minus_sign: Restrições:
+:warning: Restrições:
 
 :white_medium_small_square: Uma ou mais estruturas de dados do tipo lista, para armazenar os dados dos inscritos; e/ou
 
